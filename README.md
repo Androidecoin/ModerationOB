@@ -87,3 +87,5 @@ No attempt will be made to determine the legality of any transaction. All transa
 ## Unethical Transactions
 
 If I find a transaction to be unethical, I will take no action in the arbitration of the dispute. If you find this policy ambiguous, please contact me before choosing me as a moderator.
+
+**My OpenBazaar Peer ID:**QmUbK728Dqj93m69fG1EFFALTncxKZpuPrYvg1XSvi3r5h
